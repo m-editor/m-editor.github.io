@@ -1,0 +1,8 @@
+<svg id="visual" viewBox="0 0 900 600" width="900" height="600"
+                xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+                <linearGradient id='g1' y2='1'>
+                    <stop stop-color='#e74c3c' stop-opacity='.9' />
+                    <stop offset='1' stop-color='#f39c12' stop-opacity='.9' />
+                </linearGradient>
+                <g transform="translate(423.5105508884225 314.9703433673447)"><path d="M176.6 -168.9C211.8 -141.4 211.4 -70.7 200.9 -10.5C190.4 49.7 169.8 99.5 134.6 126.3C99.5 153.1 49.7 157.1 5.2 151.9C-39.4 146.7 -78.7 132.4 -107.9 105.6C-137.1 78.7 -156 39.4 -154 2C-152 -35.4 -129 -70.7 -99.9 -98.2C-70.7 -125.7 -35.4 -145.4 17.7 -163C70.7 -180.7 141.4 -196.4 176.6 -168.9" fill="url(#g1)"></path></g>
+            </svg>
