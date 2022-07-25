@@ -128,7 +128,7 @@
         );
         color: white;
         height: 45px;
-        width: 100px;
+        width: 8vw;
         border: none;
         cursor: pointer;
         border-radius: 7px;

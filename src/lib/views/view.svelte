@@ -7,9 +7,6 @@
 <section {id} style="height: ${height};">
     <div
         class="head"
-        data-aos="fade-up"
-        data-aos-duration="200"
-        data-aos-easing="ease-in-sine"
     >
         <slot name="head" />
     </div>
