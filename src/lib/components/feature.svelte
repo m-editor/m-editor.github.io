@@ -4,7 +4,7 @@
     export let icon: string;
 </script>
 
-<div class="feature" data-aos="flip-up" data-aos-duration="500" data-aos-offset="200">
+<div class="feature" data-aos="zoom-in" data-aos-duration="500" data-aos-offset="200">
     <img src="/icons/{icon}.svg" alt="lightweight" />
     <div>
         <h2>{title}</h2>
